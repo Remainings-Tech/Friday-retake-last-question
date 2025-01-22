@@ -1,0 +1,10 @@
+#1/21/25
+# exit ticket 3rd question
+#solo
+#9 minutes
+
+myList = ["jeremy", "kenny", "mykail", "Diana", "Alejandro"]
+print(myList)
+myList.append("guh")
+print(myList)
+print(myList[0], myList[2])
